@@ -340,27 +340,27 @@ const projects = [
     image: brainwave,
     source_code_link: "https://brainwave-ai-anoud.netlify.app/",
   },
-  {
-    name: "Fitness Exercises App",
-    description:
-      "Elevate your fitness journey with a dynamic app showcasing exercise categories, specific muscle groups, pagination, detailed exercise info, YouTube video integration, and personalized recommendations for similar exercises.",
-    tags: [
-      {
-        name: "ReactJS",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "RapidAPI",
-        color: "green-text-gradient",
-      },
-      {
-        name: "MaterialUI5",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: jobit,
-    source_code_link: "https://astonishing-tiramisu-7184f9.netlify.app/",
-  },
+  // {
+  //   name: "Fitness Exercises App",
+  //   description:
+  //     "Elevate your fitness journey with a dynamic app showcasing exercise categories, specific muscle groups, pagination, detailed exercise info, YouTube video integration, and personalized recommendations for similar exercises.",
+  //   tags: [
+  //     {
+  //       name: "ReactJS",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "RapidAPI",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "MaterialUI5",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: jobit,
+  //   source_code_link: "https://astonishing-tiramisu-7184f9.netlify.app/",
+  // },
 
   {
     name: "Nike UI",
